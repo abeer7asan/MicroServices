@@ -20,7 +20,7 @@ import com.microservices.recipe.service.RecipeService;
 
 
 @RestController
-@RequestMapping("/recipe")
+@RequestMapping("/post")
 
 public class PostController {
 	
